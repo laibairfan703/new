@@ -1,0 +1,166 @@
+.navbar {
+    background-color: #F3F6FD;
+    ;
+    padding: 15px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+
+.logo {
+
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.menu {
+    color: black;
+    list-style-type: none;
+    margin-left: 200px;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    margin-left: 20px;
+
+}
+
+.menu li a {
+    color: #151515;
+    text-decoration: none;
+    margin-left: 10px;
+    padding-right: 150px;
+}
+
+bu {
+    width: Fixed (180px)px;
+    height: Fixed (50px)px;
+    top: 30px;
+    left: 500px;
+    padding: 5px 26px 5px 26px;
+    gap: 10px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+
+    background-color: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+
+}
+
+button {
+    background-color: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+}
+
+.nav-item {
+    margin-left: 80px;
+}
+
+.nav-item>a>button {
+    width: Fixed (180px)px;
+    height: Fixed (50px)px;
+    top: 30px;
+    left: 1143px;
+    padding: 5px 26px 5px 26px;
+    gap: 10px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+    box-shadow: 0px 4px 4px -2px #18274B14;
+
+    box-shadow: 0px 2px 4px -2px #18274B1F;
+    width: Fixed (180px)px;
+    height: Fixed (50px)px;
+    top: 30px;
+    left: 1143px;
+    padding: 5px 26px 5px 26px;
+    gap: 10px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+
+
+
+}
+
+.new {
+    width: Hug (405px)px;
+    height: Hug (19px)px;
+    top: 46px;
+    left: 683px;
+    gap: 80px;
+    opacity: 0px;
+
+}
+
+img {
+    width: Hug (116px)px;
+    height: Hug (26px)px;
+    top: 42px;
+    left: 149px;
+    gap: 10px;
+    opacity: 0px;
+
+}
+
+p {
+    width: 438px;
+    height: 186px;
+    top: 224px;
+    left: 149px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: left;
+
+
+}
+
+span {
+    font-family: Roboto;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: left;
+    margin-left: 50px;
+    color: #151515;
+
+
+}
+
+p {
+    color: #4776E6;
+    margin-left: 150px;
+    padding-top: 100px;
+}
+
+.one {
+    width: 937.31px;
+    height: 654.21px;
+    top: 343.29px;
+    left: 643px;
+    gap: 0px;
+    opacity: 0px;
+    angle: 15.3 deg;
+
+}
+
+#flex-right{
+    width: 937.31px;
+    height: 654.21px;
+    top: 343.29px;
+    left: 643px;
+    gap: 0px;
+    opacity: 0px;
+    angle: 15.3 deg;
+
+}
